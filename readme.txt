@@ -13,3 +13,5 @@ Extensiones:
                                 Versión: 1.2.4
                                 Editor: Crozzo
                                 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=Crozzo.the-powerful-bootstrap)
+Temas:
+    - Bootswatch.com (https://bootswatch.com/darkly/)
